@@ -1,0 +1,8 @@
+/*
+Escribe un programa que meustre cómo transcurre un juego de tenis y quién lo ha gangado.
+El programa recibirá una secuencia formada por P1 Player1 o P2, según quién gane cada puntdo del juego.package partidotenis
+
+-las puntuaciones de un juego son LOVE 15 30 40 deuce, ventaja
+-ante la secuencia P1 P1 P2 P2 P1 P2 P1 P1
+puntuaciones := [6]string{"love", "15", "30", "40", "AD", "GANADOR"}
+*/
